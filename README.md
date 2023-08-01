@@ -6,12 +6,12 @@ Completed under Dr. Terrence Tricco's supervision for COMP-4304 at MUN, Canada i
 Employs several libraries such as Pandas, Matplotlib, Seaborn, IPyWidgets to create several different types of visualisations.
 
 File Descriptions:
-Video Presentation: video_presentation.mp4
-Visualisations:
-	First Visual: visual1.png
- 	Second Visual: visual2.png
-  	Third Visual: visual3.png
-   	Fourth Visual: In the Jupyter Notebook
-Jupyter Notebook:
+- Video Presentation: video_presentation.mp4
+- Visualisations:
+	- First Visual: visual1.png
+ 	- Second Visual: visual2.png
+  	- Third Visual: visual3.png
+   	- Fourth Visual: In the Jupyter Notebook
+- Jupyter Notebook:
 	final_project_trishir_singh.ipynb
 
