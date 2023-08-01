@@ -4,7 +4,6 @@ Data Visualisation Project
 Completed under Dr. Terrence Tricco's supervision for COMP-4304 at MUN, Canada in Winter 2023.
 
 - Employs several libraries such as Pandas, Matplotlib, Seaborn, IPyWidgets to create several different types of visualisations.
-- 
 File description:
 Video Presentation: video_presentation.mp4
 Visualisations:
